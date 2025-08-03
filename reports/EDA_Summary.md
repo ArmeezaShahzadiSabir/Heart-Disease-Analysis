@@ -21,8 +21,8 @@
   - Diabetes (31% of cases)
 
 ### 🖼️ Notable Visualizations
-![BMI Distribution](visuals/physical_activity_vs_heart_disease.png)
-*Heart disease prevalence decrease by physical activities*
+![Age Distribution](../visuals/physical_activity_vs_heart_disease.png)
+*Heart disease prevalence decreases by doing physical activities*
 
-![Risk Factor Correlation](visuals/correlation_heatmap.png)
+![Risk Factor Correlation](../visuals/correlation_heatmap.png)
 *Strongest correlations: Diabetes (+0.38), PhysicalHealth (+0.29)*
