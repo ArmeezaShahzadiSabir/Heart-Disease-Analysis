@@ -21,8 +21,8 @@
   - Diabetes (31% of cases)
 
 ### 🖼️ Notable Visualizations
-![BMI Distribution](visuals/bmi_vs_heart_disease.png)
-*Heart disease prevalence increases sharply after age 45*
+![BMI Distribution](visuals/physical_activity_vs_heart_disease.png)
+*Heart disease prevalence decrease by physical activities*
 
 ![Risk Factor Correlation](visuals/correlation_heatmap.png)
 *Strongest correlations: Diabetes (+0.38), PhysicalHealth (+0.29)*
