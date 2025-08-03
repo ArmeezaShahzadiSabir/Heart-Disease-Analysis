@@ -1,0 +1,22 @@
+# Core Data Analysis
+pandas==1.5.3
+numpy==1.23.5
+
+# Statistics & Scientific Computing
+scipy==1.10.0
+statsmodels==0.13.5
+
+# Data Visualization
+matplotlib==3.7.1
+seaborn==0.12.2
+plotly==5.14.1
+
+# Jupyter & Documentation
+jupyter==1.0.0
+jupyterlab==3.6.3
+nbformat==5.8.0
+
+# Additional Utilities
+scikit-learn==1.2.2  # For potential ML extension
+tqdm==4.65.0  # For progress bars
+openpyxl==3.1.2  # For Excel support
