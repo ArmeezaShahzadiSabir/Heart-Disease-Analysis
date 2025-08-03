@@ -15,7 +15,7 @@ Statistical analysis of CDC BRFSS 2020 data to identify heart disease risk facto
 
 ## 🛠️ Installation
 ```bash
-git clone https://github.com/yourusername/heart-disease-analysis.git
+git clone https://github.com/ArmeezaShahzadiSabir/Heart-Disease-Analysis/
 cd heart-disease-analysis
 pip install -r requirements.txt
 ```
@@ -35,15 +35,15 @@ Heart-Disease-Analysis/
 │
 ├── data/                    # Raw and processed data
 
-│   ├── heart_disease_indicators.csv   # Original dataset
+│   ├── heart_disease_health_indicators_uncleaned.csv   # Original dataset
 
-│   └── cleaned_data.csv     # Cleaned dataset (optional)
+│   └── heart_disease_health_indicators_cleaned.csv     # Cleaned dataset (optional)
 
 │
 
 ├── notebooks/               # Jupyter notebooks
 
-│   └── Heart_Disease_Analysis.ipynb   # Main analysis notebook
+│   └── heart_disease_statistical_analysis.ipynb   # Main analysis notebook
 
 │
 
@@ -51,7 +51,9 @@ Heart-Disease-Analysis/
 
 │   ├── EDA_Summary.md       # Key exploratory findings
 
-│   └── Statistical_Report.md # Hypothesis test results
+│   └── Statistical_Analysis_Report.md # Hypothesis test results
+
+│   └── Executive_Summaryt.md # Hypothesis test results
 
 │
 
@@ -72,4 +74,8 @@ Heart-Disease-Analysis/
 └── requirements.txt         # Python dependencies
 
 ## 🤝 Contributing
-- Pull requests welcome! For major changes, please open an issue first.
+Open to suggestions! Fork the repo and submit a PR or open an issue.
+
+
+## 🌟 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/armeeza-shahzadi-sabir/)
